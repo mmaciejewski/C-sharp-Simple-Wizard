@@ -1,0 +1,10 @@
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.dataInput.resources
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Output.resources
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Michal\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
